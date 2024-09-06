@@ -1,0 +1,4 @@
+name: KSUMCSPEEDRUN
+version: '1.0-SNAPSHOT'
+main: edu.Kennesaw.kSUMCSPEEDRUN.KSUMCSPEEDRUN
+api-version: '1.21'
