@@ -1,4 +1,4 @@
-package edu.Kennesaw.kSUMCSPEEDRUN;
+package edu.Kennesaw.EsportsMC;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
@@ -7,7 +7,6 @@ public final class KSUMCSpeedrun extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-
     }
 
     @Override

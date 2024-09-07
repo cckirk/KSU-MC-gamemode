@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/KSUMCSPEEDRUN.main.iml" filepath="$PROJECT_DIR$/.idea/modules/KSUMCSPEEDRUN.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edu.Kennesaw.KSUMCSPEEDRUN.main.iml" filepath="$PROJECT_DIR$/.idea/modules/edu.Kennesaw.KSUMCSPEEDRUN.main.iml" />
     </modules>
   </component>
 </project>
