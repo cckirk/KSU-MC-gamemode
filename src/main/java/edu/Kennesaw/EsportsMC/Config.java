@@ -71,7 +71,7 @@ public class Config {
         });
     }
 
-    // No Defaults Yet
+    // No Defaults Yet.
     private void addDefaults() {
         /*if (!config.contains("line")) {
             set("line", component);
