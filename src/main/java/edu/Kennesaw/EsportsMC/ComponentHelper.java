@@ -12,8 +12,8 @@ public class ComponentHelper {
         return component.replaceText(builder -> builder.matchLiteral(regex).replacement(replacement));
     }
 
-    public static Component mmStringToComponent(String text) {
-        return mm.deserialize(text);
+    public static Component mmStringToComponent(String txt) {
+        return mm.deserialize(txt);
     }
 
     public static String componentToMM(Component component) {
